@@ -1,2 +1,2 @@
 # semana-omnistack
-Repository for the crash course Semana Omnistack (Node + React + React native) by Rocketseat
+Repository for the course Semana Omnistack (Node + React + React native) by Rocketseat
